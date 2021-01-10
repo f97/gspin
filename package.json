@@ -1,6 +1,6 @@
 {
   "name": "gspin",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "repository": "https://github.com/f97/gspin.git",
   "author": "Huynh Duc Khoan <huynhduckhoan@gmail.com>",
@@ -13,5 +13,7 @@
     "eslint-config-google": "^0.14.0",
     "jest": "^26.6.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@f97/google-translate-api": "^4.0.1"
+  }
 }
